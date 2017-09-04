@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -25,6 +25,13 @@ namespace workspace.Controllers
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
+
+            return View();
+        }
+        
+        public IActionResult Party()
+        {
+            ViewData["Message"] = "Your party page.";
 
             return View();
         }
