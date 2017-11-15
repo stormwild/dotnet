@@ -153,7 +153,7 @@ Examples:
 3. [Getting Started with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/getting-started)
 4. [Specifying a Port Number to the dotnet run Command in ASP.Net Core](http://mrshipley.com/2016/11/29/passing-a-port-number-to-the-dotnet-run-command-in-asp-net-core/)
 5. [Getting started with ASP.NET Core MVC on Mac, Linux, or Windows](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-xplat/start-mvc)
-
+6. [dotnet run OR dotnet watch with development environment from command line?](https://stackoverflow.com/questions/37322565/dotnet-run-or-dotnet-watch-with-development-environment-from-command-line)
 
 
 [4]: http://mrshipley.com/2016/11/29/passing-a-port-number-to-the-dotnet-run-command-in-asp-net-core/  "Specifying a Port Number to the dotnet run Command in ASP.Net Core"
